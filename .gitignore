@@ -9,4 +9,12 @@ target/
 
 lib/**/
 
+
+
+.idea/
+lib/vtk-Windows-x86_64
+lib/vtk-Windows-x86_64.zip
+
+
+*.iml
 *.log
